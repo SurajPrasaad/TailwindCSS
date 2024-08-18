@@ -1,1 +1,1 @@
-console.log("hello tailwind.");
+console.log("hello tailwind");
